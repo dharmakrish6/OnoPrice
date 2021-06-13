@@ -5,7 +5,7 @@ import json
 f = open('./data/pricein.json',)
 jsonData = json.load(f)
 
-url = "http://ec2-54-147-124-58.compute-1.amazonaws.com:8080/api/v1/price/price-in"
+url = "http://13.233.164.148:8080/api/v1/admin/price-in"
 
 headers = {
   'Content-Type': 'application/json'
