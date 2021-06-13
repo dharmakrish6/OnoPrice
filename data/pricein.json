@@ -5,101 +5,229 @@
     "marketId": "b94654e3-b04d-4f8c-a6df-466dfca14bb1",
     "onoId": 127,
     "priceIn": [
-      {
-                  "cropId": "00192fe4-fe66-40b6-ad8b-5c47e89d9afc",
-                  "cropName": "Tomato Local",
-                  "minPrice": 17.0,
-                  "maxPrice": 25.0,
-                  "modalPrice": 15.0
-  
-              },
-              {
-                  "cropId": "196fe599-7d07-4eeb-948a-e5a0fc9d5d7f",
-                  "cropName": "Ridge Gourd",
-                  "minPrice": 10.0,
-                  "maxPrice": 20.0,
-                  "modalPrice": 15.0
-  
-              },
-              {
-                  "cropId": "4c2b0e3b-e5e7-476a-8b1b-ad733c6c85b0",
-                  "cropName": "Raw Banana",
-                  "minPrice": 30.0,
-                  "maxPrice": 35.0,
-                  "modalPrice": 35.0
-  
-              },
-              {
-                  "cropId": "892f25bd-ae21-405d-ade3-b5f11fbb6898",
-                  "cropName": "White Beans",
-                  "minPrice": 10.0,
-                  "maxPrice": 20.0,
-                  "modalPrice": 15.0
-  
-              },
-              {
-                  "cropId": "94cf082d-5075-49b5-9369-cdad5f6d7678",
-                  "cropName": "Carrot",
-                  "minPrice": 20.0,
-                  "maxPrice": 30.0,
-                  "modalPrice": 20.0
-              },
-              {
-                  "cropId": "96dfcd40-8e19-475b-84c6-7bb8fb89500f",
-                  "cropName": "Tomato Hybrid",
-                  "minPrice": 12.0,
-                  "maxPrice": 22.0,
-                  "modalPrice": 15.0
-  
-              },
-              {
-                  "cropId": "e87bdbc1-34d8-4428-850a-c41c141301aa",
-                  "cropName": "Aloe Vera",
-                  "minPrice": 16.0,
-                  "maxPrice": 22.0,
-                  "modalPrice": 15.0
-              },
-              {
-                  "cropId": "f416e569-8764-4918-a3f3-680b382c90d4",
-                  "cropName": "Radish",
-                  "minPrice": 15.0,
-                  "maxPrice": 20.0,
-                  "modalPrice": 15.0
-              },
-              {
-                  "cropId": "ef31cdbb-0e16-4f4e-8bfa-672f30b8956d",
-                  "cropName": "Pumpkin",
-                  "minPrice": 30.0,
-                  "maxPrice": 40.0,
-                  "modalPrice": 30.0
-              },
-              {
-                "cropId": "528ff265-274f-4e1f-9a71-e2b344fc3c8f",
-                "cropName": "Brinjal Long - White",
-                "minPrice": 15.0,
-                "maxPrice": 25.0,
-                "modalPrice": 20.0
-            },
-            {
-                "cropId": "76900c00-f86a-46b2-9078-87de8dae1a30",
-                "cropName": "Brinjal Long - Blue",
-                "minPrice": 20.0,
-                "maxPrice": 25.0,
-                "modalPrice": 20.0
-            },
-            {
-                "cropId": "5df93591-877d-4465-8982-466a8f2d6920",
-                "cropName": "Bitter Gourd",
-                "minPrice": 30.0,
-                "maxPrice": 40.0,
-                "modalPrice": 30.0
-            },
-            {
-                "cropId": "8f548ac5-3957-4894-b50b-7c97c672c78d",
-                "cropName": "Brinjal Round - Blue",
-                "minPrice": 20.0,
-                "maxPrice": 30.0,
-                "modalPrice": 30.0
-            }
+        {
+            "cropId": "c05f59df-1f6a-4572-ad6a-c6d6bbf2b9f9",
+            "cropName": "Bajji Chilli",
+            "minPrice": 10.0,
+            "maxPrice": 20.0,
+            "modalPrice": 12.0
+        },
+        {
+            "cropId": "95c566a3-ef0d-45f9-9b8d-eba93f66ea1c",
+            "cropName": "Beetroot",
+            "minPrice": 15.0,
+            "maxPrice": 25.0,
+            "modalPrice": 18.0
+        },
+        {
+            "cropId": "8efab2d5-e8b2-40e2-b7b9-124ece7a987f",
+            "cropName": "Bitter Gourd",
+            "minPrice": 12.0,
+            "maxPrice": 18.0,
+            "modalPrice": 15.0
+        },
+        {
+            "cropId": "f01850e0-5ccc-4e2b-a1dc-8e9135a48601",
+            "cropName": "Bottle Gourd",
+            "minPrice": 15.0,
+            "maxPrice": 20.0,
+            "modalPrice": 13.0
+        },
+        {
+            "cropId": "fb2bb76f-5c89-4f6a-83a1-7da3aee05b6a",
+            "cropName": "Brinjal Long - Blue",
+            "minPrice": 10.0,
+            "maxPrice": 20.0,
+            "modalPrice": 10.0
+        },
+        {
+            "cropId": "6bbe5a7f-7ef8-42b7-8f81-92a8e174a9be",
+            "cropName": "Brinjal Long - White",
+            "minPrice": 18.0,
+            "maxPrice": 20.0,
+            "modalPrice": 18.0
+        },
+        {
+            "cropId": "873bdf12-b759-47d4-902c-3d5af6d6a42b",
+            "cropName": "Brinjal Round - Blue",
+            "minPrice": 15.0,
+            "maxPrice": 20.0,
+            "modalPrice": 10.0
+        },
+        {
+            "cropId": "138a161e-00dd-46e6-b040-aebad66d716f",
+            "cropName": "Brinjal Round - White",
+            "minPrice": 18.0,
+            "maxPrice": 25.0,
+            "modalPrice": 19.0
+        },
+        {
+            "cropId": "a1a9567e-8a62-4db4-98dc-52317a2891ab",
+            "cropName": "Cabbage",
+            "minPrice": 15.0,
+            "maxPrice": 20.0,
+            "modalPrice": 12.0
+        },
+        {
+            "cropId": "fe98175f-1b35-49ff-b2d0-0a25418efd12",
+            "cropName": "Capsicum",
+            "minPrice": 15.0,
+            "maxPrice": 25.0,
+            "modalPrice": 18.0
+        },
+        {
+            "cropId": "d577f2de-23fe-48ef-a736-5291d893f8fd",
+            "cropName": "Carrot",
+            "minPrice": 20.0,
+            "maxPrice": 25.0,
+            "modalPrice": 22.0
+        },
+        {
+            "cropId": "8b2e9b36-9eeb-430b-af4f-cad770ec82d9",
+            "cropName": "Cauliflower",
+            "minPrice": 15.0,
+            "maxPrice": 20.0,
+            "modalPrice": 18.0
+        },
+        {
+            "cropId": "198e1fa7-ab4c-43a4-af8f-00aea4e5171e",
+            "cropName": "Coriander Leaves",
+            "minPrice": 10.0,
+            "maxPrice": 20.0,
+            "modalPrice": 15.0
+        },
+        {
+            "cropId": "94a359c9-a5b9-4644-b11e-36dacef6c611",
+            "cropName": "Cucumber",
+            "minPrice": 8.0,
+            "maxPrice": 10.0,
+            "modalPrice": 9.0
+        },
+        {
+            "cropId": "849ebef1-ed68-4ade-889e-a5fd20c47118",
+            "cropName": "Curry Leaves",
+            "minPrice": 10.0,
+            "maxPrice": 15.0,
+            "modalPrice": 12.0
+        },
+        {
+            "cropId": "67f871b5-4d90-4885-99dd-ed8785ff9be7",
+            "cropName": "Drumsticks",
+            "minPrice": 18.0,
+            "maxPrice": 22.0,
+            "modalPrice": 19.0
+        },
+        {
+            "cropId": "e8b39d08-f071-481a-a319-f3ff6a416a82",
+            "cropName": "Garlic",
+            "minPrice": 20.0,
+            "maxPrice": 25.0,
+            "modalPrice": 23.0
+        },
+        {
+            "cropId": "99829b4f-b44d-4df0-bb66-ff12c696b009",
+            "cropName": "Ginger",
+            "minPrice": 15.0,
+            "maxPrice": 18.0,
+            "modalPrice": 15.0
+        },
+        {
+            "cropId": "d09250a7-793c-4d21-9180-99546e1c21de",
+            "cropName": "Green Beans",
+            "minPrice": 20.0,
+            "maxPrice": 25.0,
+            "modalPrice": 21.0
+        },
+        {
+            "cropId": "5edb526d-caa3-4d13-b0a0-8c0e9a779f05",
+            "cropName": "Green Chillies",
+            "minPrice": 15.0,
+            "maxPrice": 20.0,
+            "modalPrice": 16.0
+        },
+        {
+            "cropId": "07e73ea4-f7b6-46f6-bd9d-606bca09a8e0",
+            "cropName": "Knol Khol",
+            "minPrice": 18.0,
+            "maxPrice": 22.0,
+            "modalPrice": 20.0
+        },
+        {
+            "cropId": "5e69c1d7-e5f6-4e7b-9af9-11139bf072e1",
+            "cropName": "Lady's Fingers",
+            "minPrice": 20.0,
+            "maxPrice": 28.0,
+            "modalPrice": 23.0
+        },
+        {
+            "cropId": "1cf66738-ca84-4eb6-997c-8a20ca02ef84",
+            "cropName": "Onion",
+            "minPrice": 10.0,
+            "maxPrice": 15.0,
+            "modalPrice": 12.0
+        },
+        {
+            "cropId": "1fc045a2-f821-410c-a709-43908a288745",
+            "cropName": "Potato",
+            "minPrice": 15.0,
+            "maxPrice": 20.0,
+            "modalPrice": 17.0
+        },
+        {
+            "cropId": "ada73063-bb87-4970-be6a-f2a566a87da2",
+            "cropName": "Radish",
+            "minPrice": 10.0,
+            "maxPrice": 20.0,
+            "modalPrice": 12.0
+        },
+        {
+            "cropId": "fde2c5c8-1903-47dd-b475-798b8ad0b522",
+            "cropName": "Raw Banana",
+            "minPrice": 10.0,
+            "maxPrice": 15.0,
+            "modalPrice": 12.0
+        },
+        {
+            "cropId": "75a937f8-4391-49e9-9fab-16b47e04e942",
+            "cropName": "Ridge Gourd",
+            "minPrice": 12.0,
+            "maxPrice": 20.0,
+            "modalPrice": 15.0
+        },
+        {
+            "cropId": "506ff6b9-fc06-4d14-bf90-e191a50d5806",
+            "cropName": "Snake Gourd",
+            "minPrice": 10.0,
+            "maxPrice": 15.0,
+            "modalPrice": 12.0
+        },
+        {
+            "cropId": "9ede3846-2224-4a26-b941-dc1c706e0ce6",
+            "cropName": "Sweet Corn",
+            "minPrice": 15.0,
+            "maxPrice": 20.0,
+            "modalPrice": 18.0
+        },
+        {
+            "cropId": "3628f81c-da83-474c-aa04-a42a92745889",
+            "cropName": "Tomato Hybrid",
+            "minPrice": 15.0,
+            "maxPrice": 20.0,
+            "modalPrice": 19.0
+        },
+        {
+            "cropId": "72ce4bea-9f8e-4058-ae5a-003feb90b51d",
+            "cropName": "Tomato Local",
+            "minPrice": 10.0,
+            "maxPrice": 15.0,
+            "modalPrice": 12.0
+        },
+        {
+            "cropId": "99c70e96-49d8-42c2-93e1-ffd5b2f6b182",
+            "cropName": "White Beans",
+            "minPrice": 15.0,
+            "maxPrice": 20.0,
+            "modalPrice": 17.0
+        }
     ]
   }
