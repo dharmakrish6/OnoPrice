@@ -1,9 +1,9 @@
 {
     "agentName": "automation",
-    "lat": 12.965851062671904,
-    "lon": 77.57611494029588,
+    "lat": 12.663632213605236,
+    "lon": 78.0138853904585,
     "marketId": "b94654e3-b04d-4f8c-a6df-466dfca14bb1",
-    "onoId": 127,
+    "onoId": 180,
     "priceIn": [
         {
             "cropId": "c05f59df-1f6a-4572-ad6a-c6d6bbf2b9f9",

@@ -4,7 +4,7 @@ import json
 f = open('./data/pricein.json',)
 jsonData = json.load(f)
 
-url = "http://13.233.164.148:8080/api/v1/price/price-in"
+url = "https://dev-api.onoark.com/v1/daily-price/price/price-in"
 
 headers = {
   'Content-Type': 'application/json'
