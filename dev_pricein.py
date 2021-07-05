@@ -1,5 +1,6 @@
 import requests
 import json
+import random
 
 f = open('./data/pricein.json',)
 jsonData = json.load(f)
@@ -46,6 +47,10 @@ markets=[
 for market in markets:
     print(market)
     jsonData['marketId']=market
+    for each in jsonData['priceIn']:
+      each['minPrice']=random.randint(9,20)
+      each['maxPrice']=random.randint(21,30)
+      each['modalPrice']=(each['minPrice']+each['maxPrice'])/2
     print(type(jsonData))
     response=pushData(jsonData)
     print(response.text)
